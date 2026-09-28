@@ -1,0 +1,9 @@
+{
+  "name": "genpark-quantum-teleportation-entanglement-circuit-skill",
+  "version": "1.0.0",
+  "description": "EPR Bell state generator creating maximally entangled qubit pairs (|Phi+>) for quantum communications and teleportation protocols.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
